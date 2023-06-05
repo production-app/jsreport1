@@ -1,0 +1,131 @@
+
+{
+  "data": [
+    {
+      "items": "ELEPHANT SOAP (ZIP):PCS",
+      "uuid": "b6b0b101-b5f6-4714-9c1f-24d93dddf635",
+      "stock_in": 5158,
+      "stock_out": 769,
+      "balance": 11,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-04-10T12:25:00.753Z"
+    },
+    {
+      "items": "AIRFRESHER WITH MACHINE:PCS",
+      "uuid": "c482333b-edb3-446e-92e5-94e56b3b01eb",
+      "stock_in": 5114,
+      "stock_out": 5034,
+      "balance": 82,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-04-12T00:46:34.036Z"
+    },
+    {
+      "items": "HONEY : BOTTLE",
+      "uuid": "dc0f9c17-23c3-4dc2-95cc-306154ac42e1",
+      "stock_in": 2234,
+      "stock_out": 13,
+      "balance": 0,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-04-12T10:47:55.070Z"
+    },
+    {
+      "items": "TOILET ROLL : PCS",
+      "uuid": "03f04a12-7918-43e1-927e-b6db56775a11",
+      "stock_in": 2287,
+      "stock_out": 720,
+      "balance": 0,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-04-12T10:48:07.565Z"
+    },
+    {
+      "items": "MORNING FRESH:PCS",
+      "uuid": "fdd282f6-6f42-404d-abde-76158c28616f",
+      "stock_in": 2913,
+      "stock_out": 718,
+      "balance": 23,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-04-12T10:48:12.662Z"
+    },
+    {
+      "items": "MILO : PCS",
+      "uuid": "e70ef928-05b0-4188-9ec9-2b4efa84411c",
+      "stock_in": 12606,
+      "stock_out": 10316,
+      "balance": 40,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-04-12T11:01:04.434Z"
+    },
+    {
+      "items": "COFFEE (CAFENATED/ DECAFF) : PCS",
+      "uuid": "9cce678c-2989-4647-adca-2a57fb5aa974",
+      "stock_in": 106,
+      "stock_out": 115,
+      "balance": 0,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-03-20T11:37:12.873Z"
+    },
+    {
+      "items": "FRNL BIRO : PCS",
+      "uuid": "98cc99f4-3388-48c5-bc09-26410739a28f",
+      "stock_in": 2985,
+      "stock_out": 2814,
+      "balance": 132,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-03-28T02:38:34.478Z"
+    },
+    {
+      "items": "GIANT STAPLER:PCS",
+      "uuid": "5a23540d-5443-4e0e-8750-4e9e2a03c406",
+      "stock_in": 204,
+      "stock_out": 187,
+      "balance": 21,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-02-14T14:01:45.073Z"
+    },
+    {
+      "items": "SMALL STAPLER:PCS",
+      "uuid": "d025f0dc-bb2a-42cb-81dc-659f50536089",
+      "stock_in": 75494,
+      "stock_out": 72511,
+      "balance": 2989,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-02-27T20:59:48.646Z"
+    },
+    {
+      "items": "MILK (LIQUID) : PCS",
+      "uuid": "dc2142da-4af5-46b0-b0a4-4f3a635854ae",
+      "stock_in": 3839,
+      "stock_out": 3716,
+      "balance": 0,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-03-15T04:27:19.736Z"
+    },
+    {
+      "items": "SUGAR : PCS",
+      "uuid": "95098640-30c4-4048-a3dc-012c3ede8bcb",
+      "stock_in": 1367,
+      "stock_out": 1372,
+      "balance": 23,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-03-15T08:39:24.230Z"
+    },
+    {
+      "items": "MILK (POWDERED) : PCS",
+      "uuid": "aca12f15-292a-4bec-9637-636908e9048f",
+      "stock_in": 1457,
+      "stock_out": 1456,
+      "balance": 20,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-03-05T19:13:17.386Z"
+    },
+    {
+      "items": "FACIAL TISSUE : PCS",
+      "uuid": "d266d660-ccb3-43f0-a940-609259d01d19",
+      "stock_in": 1234,
+      "stock_out": 1232,
+      "balance": 22,
+      "createdAt": "2023-02-04T10:54:41.067Z",
+      "updatedAt": "2023-03-05T19:13:22.643Z"
+    }
+  ]
+}

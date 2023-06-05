@@ -1,0 +1,32 @@
+{
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "PoAUjmZ"
+    },
+    "name": "invoice-js",
+    "chrome": {
+        "printBackground": true,
+        "marginTop": "2cm",
+        "marginRight": "1cm",
+        "marginBottom": "2cm",
+        "marginLeft": "1cm",
+        "landscape": false,
+        "format": "A4",
+        "displayHeaderFooter": true
+    },
+    "creationDate": {
+        "$$date": 1685071453571
+    },
+    "modificationDate": {
+        "$$date": 1685075594739
+    },
+    "scripts": [],
+    "pdfOperations": [],
+    "htmlToXlsx": {
+        "htmlEngine": "chrome"
+    },
+    "shortid": "PR5gxgc",
+    "_id": "yKKqCQvS4e57WSQG",
+    "$entitySet": "templates"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "db",
+    "entitySet": "data",
+    "type": "entity",
+    "key": "ILdTOOacQ8lwNnLJ",
+    "creationDate": {
+        "$$date": 1685507638775
+    },
+    "modificationDate": {
+        "$$date": 1685507638775
+    },
+    "shortid": "l9F_E6O",
+    "_id": "FUkphR65gJz9U2CI",
+    "$entitySet": "data"
+}

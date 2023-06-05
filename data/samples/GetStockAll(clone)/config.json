@@ -1,0 +1,14 @@
+{
+    "name": "GetStockAll(clone)",
+    "__entitySet": "folders",
+    "__name": "GetStockAll",
+    "creationDate": {
+        "$$date": 1685507638717
+    },
+    "modificationDate": {
+        "$$date": 1685507638717
+    },
+    "shortid": "S1P1zKW",
+    "_id": "jV5ohn0BPfmTkgkv",
+    "$entitySet": "folders"
+}

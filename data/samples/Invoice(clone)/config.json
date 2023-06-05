@@ -1,0 +1,14 @@
+{
+    "name": "Invoice(clone)",
+    "__entitySet": "folders",
+    "__name": "Invoice",
+    "creationDate": {
+        "$$date": 1684407043080
+    },
+    "modificationDate": {
+        "$$date": 1684407043080
+    },
+    "shortid": "KqkVcHI",
+    "_id": "R4Us3sGwluM0csCz",
+    "$entitySet": "folders"
+}

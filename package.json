@@ -1,0 +1,18 @@
+{
+  "name": "jsreport-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "jsreport": "jsreport"
+  },
+  "jsreport": {
+    "entryPoint": "server.js"
+  },
+  "dependencies": {
+    "@jsreport/jsreport-phantom-pdf": "^3.2.0",
+    "bwip-js": "^3.4.0",
+    "jsreport": "^3.11.3",
+    "moment": "^2.29.4",
+    "phantomjs-exact-2-1-1": "^0.1.0"
+  }
+}
